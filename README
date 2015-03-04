@@ -1,0 +1,7 @@
+Run with
+
+    rackup -p 4567
+
+Then, your site will be available on
+
+    http://localhost:4567/
